@@ -1,1 +1,1 @@
-[print('love offal') for x in range(100)] 
+[print('hate offal') for x in range(100)] 
