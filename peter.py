@@ -1,1 +1,0 @@
-[print('hate offal') for x in range(100)] 
